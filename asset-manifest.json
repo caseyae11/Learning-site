@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learning-site/static/css/main.832525da.css",
+    "main.js": "/learning-site/static/js/main.89e515b1.js",
+    "static/media/back.webp": "/learning-site/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/learning-site/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/learning-site/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/learning-site/index.html",
+    "main.832525da.css.map": "/learning-site/static/css/main.832525da.css.map",
+    "main.89e515b1.js.map": "/learning-site/static/js/main.89e515b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.832525da.css",
+    "static/js/main.89e515b1.js"
+  ]
+}
